@@ -1,2 +1,7 @@
 # chartjs-chart-geo-react-example
-test
+
+- yarn install
+
+- yarn run build
+
+- yarn run dev
